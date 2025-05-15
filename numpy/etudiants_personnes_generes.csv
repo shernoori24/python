@@ -1,0 +1,201 @@
+Nom,Age,Adresse,Matricule,Notes,Moyenne,Type
+Anastasie,24,"54, rue Benjamin Barbier
+29234 Saint Luc",A414,"[16, 13, 12, 16, 10]",13.4,Etudiant
+Guy,22,"117, boulevard de Bonnin
+60629 Marin",A986,"[20, 12, 13, 17, 15]",15.4,Etudiant
+Aurore,19,"34, chemin Ollivier
+01179 Morel",A524,"[12, 14, 14, 19, 14]",14.6,Etudiant
+Joseph,23,"52, boulevard Philippine Bodin
+42452 Coulon",A941,"[12, 17, 11, 20, 10]",14.0,Etudiant
+Franck,24,"351, rue de Barthelemy
+97246 ThomasBourg",A061,"[20, 12, 15, 16, 15]",15.6,Etudiant
+Christophe,22,"30, avenue de Salmon
+54467 Colletdan",A964,"[16, 13, 13, 11, 17]",14.0,Etudiant
+Capucine,21,"44, boulevard Michel Gauthier
+64483 Pascalboeuf",A318,"[10, 18, 11, 18, 12]",13.8,Etudiant
+Rémy,19,"736, boulevard Guyon
+66291 Bigot",A093,"[10, 11, 18, 13, 19]",14.2,Etudiant
+Diane,21,"2, boulevard Suzanne Bousquet
+31184 Andre-la-Forêt",A076,"[10, 13, 11, 20, 10]",12.8,Etudiant
+Édith,20,"66, boulevard de Normand
+93216 Thibault",A151,"[17, 11, 20, 10, 15]",14.6,Etudiant
+Dominique,21,"6, rue Collin
+19497 Marion-sur-Mer",A318,"[20, 15, 11, 11, 13]",14.0,Etudiant
+Virginie,23,"504, avenue de Renault
+07124 Loiseau",A277,"[14, 12, 13, 10, 10]",11.8,Etudiant
+Augustin,20,"rue Schneider
+24633 Barbe",A790,"[19, 15, 18, 11, 19]",16.4,Etudiant
+Patricia,19,"3, rue de Lemaître
+51340 Costa",A638,"[13, 13, 16, 20, 10]",14.4,Etudiant
+Arnaude,24,"93, avenue de Delaunay
+45375 LévyVille",A453,"[15, 11, 13, 10, 15]",12.8,Etudiant
+Benoît,23,"623, chemin Élise Godard
+63557 David",A088,"[13, 14, 14, 10, 12]",12.6,Etudiant
+Éléonore,21,"19, boulevard Jacquot
+02894 Bertrand",A495,"[20, 16, 16, 10, 19]",16.2,Etudiant
+Charlotte,19,"46, boulevard Le Gall
+02561 Bonneau",A166,"[19, 11, 14, 15, 12]",14.2,Etudiant
+Alphonse,18,"71, rue Maillet
+56543 LopezBourg",A602,"[18, 20, 13, 19, 10]",16.0,Etudiant
+Capucine,18,"15, avenue Alix Gay
+90651 Olivier",A241,"[16, 14, 10, 14, 19]",14.6,Etudiant
+Bernard,22,"chemin Éric Julien
+32762 Robert",A605,"[10, 15, 18, 18, 18]",15.8,Etudiant
+Éléonore,20,"19, avenue de Barbier
+03186 Valentin-sur-Vallet",A473,"[17, 16, 10, 13, 10]",13.2,Etudiant
+Charlotte,24,"2, boulevard de Lévy
+18261 Lefort",A005,"[19, 20, 14, 16, 11]",16.0,Etudiant
+Gilles,22,"495, rue Gimenez
+90958 Chrétien",A116,"[18, 19, 12, 18, 11]",15.6,Etudiant
+Gabrielle,18,"6, rue Alfred Rossi
+21385 Pons",A218,"[16, 16, 11, 17, 18]",15.6,Etudiant
+Laetitia,20,"5, boulevard de Duhamel
+56817 Dupuis",A936,"[12, 10, 13, 15, 13]",12.6,Etudiant
+Hortense,19,"69, rue Torres
+23391 Marchand",A435,"[13, 12, 16, 15, 11]",13.4,Etudiant
+Martin,20,"992, chemin Anouk Brunet
+81749 Sainte RenéVille",A762,"[13, 10, 15, 20, 16]",14.8,Etudiant
+Julie,18,"89, rue Valette
+91381 Clerc-les-Bains",A318,"[16, 11, 18, 10, 10]",13.0,Etudiant
+Aurélie,18,"97, chemin Bailly
+91432 Lebrundan",A085,"[13, 19, 16, 12, 19]",15.8,Etudiant
+Cécile,19,"5, chemin Constance Ferreira
+20379 Saint Sabine",A548,"[15, 14, 20, 14, 16]",15.8,Etudiant
+Margaret,22,"73, avenue Patrick Leduc
+35611 Mary",A328,"[10, 11, 18, 13, 19]",14.2,Etudiant
+Gabriel,20,"979, avenue Alex Germain
+66391 Vallée",A849,"[18, 14, 16, 18, 14]",16.0,Etudiant
+Isaac,20,"688, rue Aubert
+39182 Lecoq",A908,"[11, 17, 16, 10, 12]",13.2,Etudiant
+Anouk,22,"73, rue Maurice Adam
+14965 Clerc-les-Bains",A314,"[15, 17, 10, 17, 16]",15.0,Etudiant
+Anne,23,"93, chemin André Brun
+46819 Boucher",A870,"[15, 18, 11, 13, 15]",14.4,Etudiant
+Marguerite,20,"avenue Mallet
+31572 Guillet",A005,"[20, 15, 11, 20, 12]",15.6,Etudiant
+Margaud,20,"15, rue de Duhamel
+37476 Benoit",A946,"[20, 11, 13, 19, 12]",15.0,Etudiant
+Michèle,20,"1, rue Isaac Fleury
+29866 Hubert",A884,"[16, 10, 12, 13, 12]",12.6,Etudiant
+Philippine,21,"2, rue Faivre
+56247 Parent",A401,"[11, 14, 14, 16, 10]",13.0,Etudiant
+Cécile,21,"91, avenue Hernandez
+76836 Moreno",A341,"[15, 17, 15, 11, 10]",13.6,Etudiant
+Eugène,20,"74, rue Gimenez
+21548 Joseph",A187,"[20, 18, 13, 16, 17]",16.8,Etudiant
+Monique,25,"avenue Dorothée Gosselin
+86334 Grenier",A213,"[13, 16, 14, 17, 20]",16.0,Etudiant
+Catherine,18,"7, chemin Paul
+16756 MarquesBourg",A262,"[10, 12, 20, 19, 15]",15.2,Etudiant
+William,22,"905, rue Frédéric Vincent
+97672 Sainte Théodore",A510,"[18, 13, 10, 17, 13]",14.2,Etudiant
+Maurice,24,"345, avenue Michel Martel
+97689 Lelièvre-la-Forêt",A594,"[20, 10, 10, 12, 12]",12.8,Etudiant
+Zoé,24,"42, rue Brunet
+62237 Baudry",A905,"[12, 11, 10, 19, 16]",13.6,Etudiant
+Maurice,19,"966, boulevard Delaunay
+51528 Allain",A922,"[12, 18, 13, 19, 14]",15.2,Etudiant
+Guy,18,"28, boulevard Adrienne Andre
+92878 Meyerboeuf",A235,"[13, 11, 20, 14, 11]",13.8,Etudiant
+Thomas,21,"215, avenue Roger Ruiz
+93455 Leroux",A885,"[16, 20, 10, 18, 14]",15.6,Etudiant
+Geneviève,36,"3, avenue Georges Cousin
+04719 Moulindan",,,,Personne
+Marie,53,"27, boulevard Evrard
+48286 TessierVille",,,,Personne
+Zacharie,23,"15, chemin de Thierry
+42534 Tanguy",,,,Personne
+Marthe,24,"85, avenue Marguerite Lemonnier
+54566 Delattre",,,,Personne
+Susanne,59,"rue Frédéric Ramos
+47784 Richardnec",,,,Personne
+Marcelle,24,"87, avenue de Navarro
+82706 Chrétiendan",,,,Personne
+Léon,53,"7, chemin Jérôme Bonnin
+49127 Dupont-sur-Masse",,,,Personne
+Rémy,47,"rue Peron
+79362 Sainte Inès",,,,Personne
+Guillaume,18,"24, rue Marie
+97613 Maréchal",,,,Personne
+Martine,59,"34, chemin Boulanger
+59986 Traore-les-Bains",,,,Personne
+Virginie,48,"80, boulevard Roger Allard
+19443 Camus-sur-Mer",,,,Personne
+Sophie,45,"32, avenue de Pineau
+93140 Lenoir",,,,Personne
+Olivie,30,"chemin Langlois
+64617 Sainte Élodie",,,,Personne
+Léon,62,"32, rue Virginie Guyot
+20703 Muller",,,,Personne
+André,43,"avenue de De Sousa
+12827 Valette",,,,Personne
+Emmanuelle,19,"18, chemin Margaret Bertin
+46453 Valentindan",,,,Personne
+Alex,60,"97, chemin Picard
+64312 Antoine",,,,Personne
+David,58,"756, boulevard Olivie Gilles
+84512 Fleury-sur-Jacques",,,,Personne
+Jeannine,45,"avenue de Coulon
+95731 Masse",,,,Personne
+Benoît,22,"rue de Lefèvre
+54862 Fontaine-sur-Bouvier",,,,Personne
+Adèle,35,"89, rue de Daniel
+97338 Leclercq-sur-Mer",,,,Personne
+Antoinette,50,"98, rue Margaret Laurent
+32387 Vincentboeuf",,,,Personne
+Célina,32,"69, rue Clémence Boyer
+40708 Jolynec",,,,Personne
+Claude,52,"9, rue de Lelièvre
+67561 Leblanc",,,,Personne
+Frédérique,54,"2, rue Bourgeois
+64269 Lefèvre",,,,Personne
+Michelle,26,"308, rue Morvan
+47976 Saint Christophe",,,,Personne
+Charles,38,"25, boulevard de Godard
+18638 SauvageVille",,,,Personne
+Anastasie,45,"76, rue Loiseau
+94542 Sainte ÉdithBourg",,,,Personne
+Roger,62,"830, rue Tristan Bigot
+64127 MonnierBourg",,,,Personne
+Adrien,31,"23, chemin Roux
+21118 Hubert",,,,Personne
+Robert,47,"boulevard de Lefebvre
+78378 Klein",,,,Personne
+Olivier,64,"17, rue de Boutin
+12435 Martinsdan",,,,Personne
+Olivier,42,"79, chemin Richard Goncalves
+19793 GuilbertVille",,,,Personne
+Pierre,40,"64, rue de Arnaud
+44420 Hervé",,,,Personne
+Emmanuelle,65,"49, boulevard de Thierry
+70940 CharpentierVille",,,,Personne
+Juliette,27,"rue Toussaint
+03745 Saint René",,,,Personne
+André,30,"719, rue de Boulay
+91141 GiraudVille",,,,Personne
+Marc,30,"68, boulevard Dorothée Colas
+54441 Sainte Guy",,,,Personne
+Corinne,44,"31, avenue de Michaud
+81890 Thierry-sur-Alexandre",,,,Personne
+Christelle,54,"76, boulevard Vincent Lévêque
+48735 Payetdan",,,,Personne
+Claude,48,"12, rue Neveu
+32985 Martel",,,,Personne
+Jean,27,"76, chemin Bazin
+62461 Delaunay",,,,Personne
+Théodore,39,"92, rue Alphonse Potier
+59427 Guilbert",,,,Personne
+Agathe,52,"985, rue Marianne Mathieu
+62445 Guillaumedan",,,,Personne
+Emmanuel,30,"21, chemin de Benard
+38623 Duhamel-la-Forêt",,,,Personne
+Adèle,29,"10, rue Marin
+79649 Letelliernec",,,,Personne
+Jérôme,34,"54, rue Pineau
+19968 Lucas-sur-Auger",,,,Personne
+Lorraine,26,"2, avenue Raymond Laporte
+12115 Saint Antoine",,,,Personne
+Agnès,38,"8, rue de Boulanger
+03739 GuilbertVille",,,,Personne
+René,22,"35, boulevard Diane Lelièvre
+80450 Pinto",,,,Personne
